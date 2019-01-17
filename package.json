@@ -1,0 +1,22 @@
+{
+  "name": "noodal",
+  "version": "1.0.0",
+  "description": "a barebones social network based on node.js",
+  "main": "public",
+  "scripts": {
+    "test": "npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shapeshifter73/noodal.git"
+  },
+  "keywords": [
+    "social"
+  ],
+  "author": "spaghety",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shapeshifter73/noodal/issues"
+  },
+  "homepage": "https://github.com/shapeshifter73/noodal#readme"
+}
